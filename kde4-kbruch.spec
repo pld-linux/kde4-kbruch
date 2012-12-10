@@ -4,12 +4,12 @@
 Summary:	K Desktop Environment - Task generator for calculations with fractions
 Summary(pl.UTF-8):	K Desktop Environment - Generator zadań z obliczeniami na ułamkach
 Name:		kde4-kbruch
-Version:	4.9.1
+Version:	4.9.4
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	f5b7c7ba8062a6095050ff438718c5ca
+# Source0-md5:	9a6ce17ba9f5f0bdfcc40ddf22460dc5
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
 Obsoletes:	kde4-kdeedu-kbruch < 4.6.99
